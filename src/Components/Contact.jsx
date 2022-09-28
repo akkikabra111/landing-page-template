@@ -57,7 +57,7 @@ const Contact = () => {
                   className="form-control"
                   id="exampleFormControlInput1"
                   name="email"
-                  value={data.email}
+                  value={ahmedizaz270@gmail.com}
                   onChange={inputEvent}
                   placeholder="name@example.com"
                 />
